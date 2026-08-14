@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPcw7viRR5s=",
+  "success": true,
+  "projectFilePath": "D:\\Sharath projects\\CICD\\Ci_CD_Build\\CI_CD_build_test\\CI_CD_build_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHARATH KUMAR\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\10.0.8\\microsoft.aspnetcore.authentication.negotiate.10.0.8.nupkg.sha512",
+    "C:\\Users\\SHARATH KUMAR\\.nuget\\packages\\system.directoryservices.protocols\\10.0.8\\system.directoryservices.protocols.10.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNetCore.Authentication.Negotiate' 10.0.8 has a known high severity vulnerability, https://github.com/advisories/GHSA-2p3q-h3hg-jcqq",
+      "projectPath": "D:\\Sharath projects\\CICD\\Ci_CD_Build\\CI_CD_build_test\\CI_CD_build_test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Sharath projects\\CICD\\Ci_CD_Build\\CI_CD_build_test\\CI_CD_build_test.csproj",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Negotiate",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNetCore.Authentication.Negotiate' 10.0.8 has a known high severity vulnerability, https://github.com/advisories/GHSA-8prm-248r-h957",
+      "projectPath": "D:\\Sharath projects\\CICD\\Ci_CD_Build\\CI_CD_build_test\\CI_CD_build_test.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Sharath projects\\CICD\\Ci_CD_Build\\CI_CD_build_test\\CI_CD_build_test.csproj",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Negotiate",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
